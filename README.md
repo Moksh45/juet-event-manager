@@ -99,4 +99,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Moksh Gupta - [mokshgupta567@gmail.com](mailto:mokshgupta567@gmail.com)
 
-Project Link: [https://github.com/moksh45/college-event-manager](https://github.com/Moksh45/juet-event-manager)
+Project Link: [https://github.com/moksh45/juet-event-manager](https://github.com/Moksh45/juet-event-manager)
